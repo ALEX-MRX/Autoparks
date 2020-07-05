@@ -1,0 +1,124 @@
+
+.conteiner{
+	width: 900px;
+	margin: 50px auto;
+}
+
+
+.Autopark input {
+    width: 20rem;
+    font-size: 13px;
+    padding: 6px 0 4px 10px;
+    border: 1px solid #cecece;
+    border-radius: 4px;
+    margin: 0 10rem 1rem 3rem;
+
+
+}
+
+
+.Autopark {
+    font-family: 'Quicksand', sans-serif;
+    color: #6c84b7;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.Cars{
+    font-family: 'Quicksand', sans-serif;
+    color: #6c84b7;
+    display: block;
+    width: 500px;
+    margin: auto;
+
+}
+
+
+
+.CarsEditing{
+    font-family: 'Quicksand', sans-serif;
+    color: #6c84b7;
+    display: block;
+    width: 600px;
+    margin-left: 80px;
+}
+
+.blocks{
+    display: block;
+    width: 350px;
+    margin-left: 6rem;
+}
+.CarsEditing input {
+    margin-right: 7rem;
+    width: 12rem;
+    font-size: 13px;
+    padding: 6px 0 4px 10px;
+    border: 1px solid #cecece;
+    border-radius: 4px;
+}
+.carsItem{
+    display: block;
+    justify-content: space-between;
+}
+.carDescription{
+    display: flex;
+    justify-content: space-between;
+}
+.Cars input {
+    margin-right: 7rem;
+    width: 15rem;
+    font-size: 12px;
+    padding: 6px 0 4px 10px;
+    border: 1px solid #cecece;
+    border-radius: 4px;
+}
+
+
+.buttons button{
+    margin-bottom: 1.5rem;
+    position: absolute;
+}
+
+.title{
+    font-size: 25px;
+    color: #6c84b7;
+}
+
+
+.bord{
+    border: 1px solid red;
+}
+
+.danger{
+    color: red;
+    margin-left: 10rem;
+}
+
+.select{
+    border: 1px solid #cecece;
+    border-radius: 4px;
+    width: 300px;
+    height: 120px;
+    padding: 8px;
+}
+.errors{
+    margin-left: 3rem;
+}
+
+.carDescription input {
+    width: 170px;
+}
+
+
+a {
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}
+
+li {
+    list-style-type: none; /* Отменяем подчеркивание у ссылки */
+}
+
+a:hover {
+    text-decoration: none; /* Отменяем подчеркивание у ссылки */
+}

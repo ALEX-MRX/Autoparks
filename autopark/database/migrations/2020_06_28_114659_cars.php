@@ -18,7 +18,7 @@ class Cars extends Migration
             $table->string('name_driver', 100);
             $table->string('number', 100);
             $table->integer('id_user');
-            $table->string('autopark', 100);
+            $table->string('autopark', 250);
             $table->timestamp('published_at')->nullable();
             $table->timestamps();
         });
